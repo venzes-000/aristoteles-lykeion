@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-09-21",
+  "originalSha256": "c7fe158315246a6721589f6ae49bf2e48942d5b82b2e920507c7e1a888cda653",
+  "copyIdentical": true,
+  "pageLineCounts": [
+    49,
+    26
+  ],
+  "totalTextLines": 75,
+  "originalContentExtractionUnchanged": true,
+  "allThreeQuotesVerified": true,
+  "numberedPdf": "Aristoteles_Arbeitsblatt_mit_Zeilen.pdf",
+  "visualCheck": "passed: both original pages and both numbered pages rendered with Poppler and visually inspected",
+  "promptLineReferencesVerified": true
+}
